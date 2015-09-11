@@ -1,0 +1,7 @@
+xcuserdata
+BLKWaterDelivery.xcworkspace
+DerivedData
+Pods/
+Podfile.lock
+.DS_Store
+*.xccheckout
